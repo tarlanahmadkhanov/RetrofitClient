@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit Client</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="get_data">get data</string>
+</resources>
